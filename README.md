@@ -52,7 +52,7 @@ I’m a frontend developer focused on building responsive, functional interfaces
 
 ### 💼 Projects
 
-- 🔗 [Portfolio Website](https://github.com/VladMit1/your-portfolio) — built with React, SCSS  
+- 🔗 [Portfolio Website](https://my-home-page-ashy-phi.vercel.app) — built with React, SCSS  
 <!-- - 📋 [Task Manager](https://github.com/VladMit1/task-manager) — Trello-style app using **Redux Toolkit** and LocalStorage  
 - 📰 [News App](https://github.com/VladMit1/news-app) — Simple React app that fetches articles via API (tested with Postman) -->
 
